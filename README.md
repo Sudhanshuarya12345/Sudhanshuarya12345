@@ -21,9 +21,11 @@ education  : B.Tech in Computer Science & Engineering (Final Year)
 focus      : Full Stack Development · Offensive Security · Python Automation
 status     : Open to Internships & Full-Time Opportunities
 interests  : Web Security, Penetration Testing, SOC Analysis, Scalable Systems
+achievement: GATE-2026 Qualified — CS/IT (Computer Science & Information Technology)
 ```
 
 - 🎓 Final-year **B.Tech CSE** student passionate about building secure, scalable applications
+- 🏆 **GATE-2026 Qualified** in Computer Science & Information Technology (CS/IT)
 - 🔐 Actively building & breaking systems — hands-on in **penetration testing**, **malware analysis**, **threat intelligence**, and **SOC workflows**
 - 🌐 Full stack developer skilled in both **frontend (React.js)** and **backend (Node.js, Django, FastAPI)**
 - 🤖 Python automation developer — scripting, vulnerability scanning, and security tooling
