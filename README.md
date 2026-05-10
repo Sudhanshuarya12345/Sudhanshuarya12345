@@ -94,14 +94,31 @@ interests  : Web Security, Penetration Testing, SOC Analysis, Scalable Systems
 
 ## 📌 Featured Projects
 
+### 🔐 Cybersecurity & Automation
+
 | Project | Description | Tech |
 |---|---|---|
-| [🎵 Spotify Clone](https://github.com/Sudhanshuarya12345/Spotify-clone) | Fully functional music streaming UI clone | JavaScript, HTML, CSS |
-| [🔍 Vulnerability Scanner](https://github.com/Sudhanshuarya12345/Vulnerability_Scanner) | Automated security vulnerability scanner | Python |
-| [📰 News Reporter](https://github.com/Sudhanshuarya12345/NEWS-REORTER) | News aggregation & reporting tool | Python |
-| [📅 Web Calendar](https://github.com/Sudhanshuarya12345/Web_Calendar_project) | Interactive browser-based calendar app | JavaScript |
-| [🎓 Student Records](https://github.com/Sudhanshuarya12345/Students-Records-Management) | Student record management system | Python |
-| [🌐 Portfolio](https://github.com/Sudhanshuarya12345/Portfolio) | Personal developer portfolio website | JavaScript |
+| [🧹 Secure Wipe](https://github.com/Sudhanshuarya12345/secure-wipe) | Multi-pass secure file & disk wiping tool using DoD-grade overwrite algorithms to prevent forensic recovery | Python, OS, Cryptography |
+| [💾 Secure Recovery](https://github.com/Sudhanshuarya12345/secure-recovery) | Forensic-grade data recovery utility for retrieving deleted files from disk images and storage media | Python, File Systems |
+| [🔍 Vulnerability Scanner](https://github.com/Sudhanshuarya12345/Vulnerability_Scanner) | Automated network & web vulnerability scanner with structured reporting | Python, Nmap, Security |
+| [⚡ SecFlow-Nexus](https://github.com/Sudhanshuarya12345/secflow-nexus) | Centralized security workflow orchestration hub — automates SOC pipelines, threat triage, and incident response flows | Python, Automation, Security |
+
+### 🌐 Full Stack & Web Development
+
+| Project | Description | Tech |
+|---|---|---|
+| [🤖 AI Chat Collaborator & Code Editor](https://github.com/Sudhanshuarya12345/AI-Chat-Collaborator-N-CodeEditor) | Real-time collaborative platform combining AI-powered chat assistance with a live in-browser code editor | React.js, Node.js, WebSockets, AI |
+| [🛒 My Awesome Cart](https://github.com/Sudhanshuarya12345/my-awesome-cart) | Feature-rich e-commerce shopping cart with product management, authentication, and order processing | Django, Python, SQL |
+| [🎵 Spotify Clone](https://github.com/Sudhanshuarya12345/Spotify-clone) | Fully functional music streaming UI clone with playback controls and dynamic playlists | JavaScript, HTML, CSS |
+| [🌐 Portfolio](https://github.com/Sudhanshuarya12345/Portfolio) | Personal developer portfolio showcasing projects, skills, and experience | JavaScript |
+
+### 🛠️ Tools & Utilities
+
+| Project | Description | Tech |
+|---|---|---|
+| [📰 News Reporter](https://github.com/Sudhanshuarya12345/NEWS-REORTER) | Automated news aggregation & reporting tool with category filtering | Python |
+| [📅 Web Calendar](https://github.com/Sudhanshuarya12345/Web_Calendar_project) | Interactive browser-based calendar with event management | JavaScript |
+| [🎓 Student Records](https://github.com/Sudhanshuarya12345/Students-Records-Management) | CRUD-based student record management system | Python |
 
 ---
 
