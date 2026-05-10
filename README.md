@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sudhanshu+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Automation+Engineer;B.Tech+CSE+%7C+Final+Year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sudhanshu+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Engineer+%7C+Pentester;Python+%26+Automation+Engineer;B.Tech+CSE+%7C+Final+Year)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,13 +18,13 @@
 ```yaml
 name       : Sudhanshu Kumar
 education  : B.Tech in Computer Science & Engineering (Final Year)
-focus      : Full Stack Development · Cybersecurity · Python Automation
+focus      : Full Stack Development · Offensive Security · Python Automation
 status     : Open to Internships & Full-Time Opportunities
 interests  : Web Security, Penetration Testing, SOC Analysis, Scalable Systems
 ```
 
 - 🎓 Final-year **B.Tech CSE** student passionate about building secure, scalable applications
-- 🔐 Cybersecurity enthusiast with hands-on experience in **penetration testing**, **malware analysis**, and **SOC workflows**
+- 🔐 Actively building & breaking systems — hands-on in **penetration testing**, **malware analysis**, **threat intelligence**, and **SOC workflows**
 - 🌐 Full stack developer skilled in both **frontend (React.js)** and **backend (Node.js, Django, FastAPI)**
 - 🤖 Python automation developer — scripting, vulnerability scanning, and security tooling
 - 🎯 Currently seeking roles in **Software Development** or **Cybersecurity Engineering**
@@ -132,6 +132,24 @@ interests  : Web Security, Penetration Testing, SOC Analysis, Scalable Systems
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshuarya12345&theme=github-dark-blue&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" height="180"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Sz4prTysD2-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sz4prTysD2/)
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Sz4prTysD2?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10&bg_color=0f172a&text_color=94a3b8&title_color=0ea5e9" alt="LeetCode Stats" />
+
+<br/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Sz4prTysD2&animated=true" alt="LeetCode Badges" />
 
 </div>
 
