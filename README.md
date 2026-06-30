@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sudhanshu+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Engineer+%7C+Pentester;Python+%26+Automation+Engineer;B.Tech+CSE+%7C+Final+Year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sudhanshu+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Engineer+%7C+Pentester;Python+%26+Automation+Engineer;B.E.+CSE+%7C+Final+Year)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,14 +17,14 @@
 
 ```yaml
 name       : Sudhanshu Kumar
-education  : B.Tech in Computer Science & Engineering (Final Year)
+education  : B.E. in Computer Science & Engineering (Final Year)
 focus      : Full Stack Development · Offensive Security · Python Automation
 status     : Open to Internships & Full-Time Opportunities
 interests  : Web Security, Penetration Testing, SOC Analysis, Scalable Systems
 achievement: GATE-2026 Qualified — CS/IT (Computer Science & Information Technology)
 ```
 
-- 🎓 Final-year **B.Tech CSE** student passionate about building secure, scalable applications
+- 🎓 Final-year **B.E. CSE** student passionate about building secure, scalable applications
 - 🏆 **GATE-2026 Qualified** in Computer Science & Information Technology (CS/IT)
 - 🔐 Actively building & breaking systems — hands-on in **penetration testing**, **malware analysis**, **threat intelligence**, and **SOC workflows**
 - 🌐 Full stack developer skilled in both **frontend (React.js)** and **backend (Node.js, Django, FastAPI)**
